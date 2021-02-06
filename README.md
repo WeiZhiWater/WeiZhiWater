@@ -8,6 +8,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=WeiZhiWater.WeiZhiWater)
 
 I am a postdoc in the Department of Civil & Environmental Engineering at [Penn State University](https://www.psu.edu/), University Park. My research interests focus on **Critical Zone Science** and **Watershed Hydro-biogeochemistry**. More specifically, I am interested in understanding how water moves and interacts with other components in natural environments. Ultimately, I aim to understand and forecast water quantity and quality at the watershed- and continental-scale, using both the **process-based reactive transport model** and **the data-driven machine (deep) learning model**. 
+
 <br/>
 
 Academic Profiles:
@@ -18,7 +19,9 @@ Academic Profiles:
 - [Twitter](https://twitter.com/WeiZhiWater)
 
 
-
 ---
 
-### Research
+## Research
+### Continential-scale water quality modelling & analysis
+
+### Watershed-scale hydro-biogeochemicy & reactive transport modelling
