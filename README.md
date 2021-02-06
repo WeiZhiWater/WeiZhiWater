@@ -25,4 +25,4 @@ Academic Profiles:
 ### Continential-scale water quality modelling & analysis
 
 ### Watershed-scale hydro-biogeochemicy & reactive transport modelling
-- [Significant stream chemistry response to temperature variations in a high-elevation mountain watershed](https://github.com/WeiZhiWater/COMMSENV_Stream-Chemistry-Response) [https://doi.org/10.1038/s43247-020-00039-w](https://doi.org/10.1038/s43247-020-00039-w)
+- [**Significant stream chemistry response to temperature variations in a high-elevation mountain watershed**](https://github.com/WeiZhiWater/COMMSENV_Stream-Chemistry-Response) <br/>[https://doi.org/10.1038/s43247-020-00039-w](https://doi.org/10.1038/s43247-020-00039-w)
