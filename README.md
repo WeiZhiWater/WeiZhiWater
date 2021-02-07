@@ -28,5 +28,5 @@ Academic Profiles:
 
 ### Watershed-scale hydro-biogeochemicy & reactive transport modelling
 - 2021 under review, **BioRT-Flux-PIHM v1. 0: a watershed biogeochemical reactive transport model** [(doi: 10.5194/gmd-2020-157)](https://doi.org/10.5194/gmd-2020-157) &nbsp; [![repo](https://img.shields.io/badge/my-repo-red)](https://github.com/WeiZhiWater/BioRT-Flux-PIHM)
-- 2020, **Significant stream chemistry response to temperature variations in a high-elevation mountain watershed** [(doi: 10.1038/s43247-020-00039-w)](https://doi.org/10.1038/s43247-020-00039-w) &nbsp; [![repo](https://img.shields.io/badge/my-repo-red)](https://github.com/WeiZhiWater/COMMSENV_Stream-Chemistry-Response)
+- 2020, **Significant stream chemistry response to temperature variations in a high-elevation mountain watershed** [(doi: 10.1038/s43247-020-00039-w)](https://doi.org/10.1038/s43247-020-00039-w) &nbsp; [![repo](https://img.shields.io/badge/my-repo-9cf)](https://github.com/WeiZhiWater/COMMSENV_Stream-Chemistry-Response)
 - 2019, **Distinct Source Water Chemistry Shapes Contrasting Concentration‐Discharge Patterns** [(doi: 10.1029/2018WR024257)](https://doi.org/10.1029/2018WR024257)
