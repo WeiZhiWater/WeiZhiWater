@@ -23,10 +23,10 @@ Academic Profiles:
 
 ## Research
 ### Continential-scale water quality modelling & analysis
-- 2021, **From Hydrometeorology to River Water Quality: Can a Deep Learning Model Predict Dissolved Oxygen at the Continental Scale?** [doi: 10.1021/acs.est.0c06783](https://doi.org/10.1021/acs.est.0c06783) &nbsp; [![repo](https://img.shields.io/badge/my-repo-red)](https://github.com/WeiZhiWater/EST_CAMELS-Chem-DO-dataset)
-- 2020, **The Shallow and Deep Hypothesis: Subsurface Vertical Chemical Contrasts Shape Nitrate Export Patterns from Different Land Uses** [doi: 10.1021/acs.est.0c01340](https://doi.org/10.1021/acs.est.0c01340) &nbsp; [![repo](https://img.shields.io/badge/my-repo-red)](https://github.com/WeiZhiWater/EST_Nitrate-Shallow-Deep-Hypothesis) 
+- 2021, **From Hydrometeorology to River Water Quality: Can a Deep Learning Model Predict Dissolved Oxygen at the Continental Scale?** | [doi: 10.1021/acs.est.0c06783](https://doi.org/10.1021/acs.est.0c06783) | [![repo](https://img.shields.io/badge/my-repo-red)](https://github.com/WeiZhiWater/EST_CAMELS-Chem-DO-dataset)
+- 2020, **The Shallow and Deep Hypothesis: Subsurface Vertical Chemical Contrasts Shape Nitrate Export Patterns from Different Land Uses** | [doi: 10.1021/acs.est.0c01340](https://doi.org/10.1021/acs.est.0c01340) | [![repo](https://img.shields.io/badge/my-repo-red)](https://github.com/WeiZhiWater/EST_Nitrate-Shallow-Deep-Hypothesis) 
 
 ### Watershed-scale hydro-biogeochemicy & reactive transport modelling
-- 2021 under review, **BioRT-Flux-PIHM v1. 0: a watershed biogeochemical reactive transport model** [(doi: 10.5194/gmd-2020-157)](https://doi.org/10.5194/gmd-2020-157) &nbsp; [![repo](https://img.shields.io/badge/my-repo-red)](https://github.com/WeiZhiWater/BioRT-Flux-PIHM)
-- 2020, **Significant stream chemistry response to temperature variations in a high-elevation mountain watershed** [(doi: 10.1038/s43247-020-00039-w)](https://doi.org/10.1038/s43247-020-00039-w) &nbsp; [![repo](https://img.shields.io/badge/my-repo-red)](https://github.com/WeiZhiWater/COMMSENV_Stream-Chemistry-Response)
-- 2019, **Distinct Source Water Chemistry Shapes Contrasting Concentration‐Discharge Patterns** [(doi: 10.1029/2018WR024257)](https://doi.org/10.1029/2018WR024257)
+- 2021 under review, **BioRT-Flux-PIHM v1. 0: a watershed biogeochemical reactive transport model** | [(doi: 10.5194/gmd-2020-157)](https://doi.org/10.5194/gmd-2020-157) | [![repo](https://img.shields.io/badge/my-repo-red)](https://github.com/WeiZhiWater/BioRT-Flux-PIHM)
+- 2020, **Significant stream chemistry response to temperature variations in a high-elevation mountain watershed** | [(doi: 10.1038/s43247-020-00039-w)](https://doi.org/10.1038/s43247-020-00039-w) | [![repo](https://img.shields.io/badge/my-repo-red)](https://github.com/WeiZhiWater/COMMSENV_Stream-Chemistry-Response)
+- 2019, **Distinct Source Water Chemistry Shapes Contrasting Concentration‐Discharge Patterns** | [(doi: 10.1029/2018WR024257)](https://doi.org/10.1029/2018WR024257)
