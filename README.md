@@ -24,7 +24,7 @@ Academic Profiles:
 ## Research
 ### Continential-scale water quality modelling & analysis
 - 2021, **From Hydrometeorology to River Water Quality: Can a Deep Learning Model Predict Dissolved Oxygen at the Continental Scale?** 
-  * [doi: 10.1021/acs.est.0c06783](https://doi.org/10.1021/acs.est.0c06783) | [![repo](https://img.shields.io/badge/short-summary-red)](https://github.com/WeiZhiWater/EST_CAMELS-Chem-DO-dataset)
+  * [doi: 10.1021/acs.est.0c06783](https://doi.org/10.1021/acs.est.0c06783) | [![repo](https://img.shields.io/badge/CAMELS_chem-dataset-green)](https://github.com/WeiZhiWater/CAMELS-Chem-DO-dataset)
 - 2020, **The Shallow and Deep Hypothesis: Subsurface Vertical Chemical Contrasts Shape Nitrate Export Patterns from Different Land Uses**
   * [doi: 10.1021/acs.est.0c01340](https://doi.org/10.1021/acs.est.0c01340) | [![repo](https://img.shields.io/badge/short-summary-red)](https://github.com/WeiZhiWater/EST_Nitrate-Shallow-Deep-Hypothesis) 
 
