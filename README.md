@@ -35,3 +35,5 @@ Academic Profiles:
   * [doi: 10.1038/s43247-020-00039-w](https://doi.org/10.1038/s43247-020-00039-w) | [![repo](https://img.shields.io/badge/short-summary-red)](https://github.com/WeiZhiWater/COMMSENV_Stream-Chemistry-Response)
 - 2019, **Distinct Source Water Chemistry Shapes Contrasting Concentration‐Discharge Patterns**
   * [doi: 10.1029/2018WR024257](https://doi.org/10.1029/2018WR024257) | [![repo](https://img.shields.io/badge/short-summary-red)](https://github.com/WeiZhiWater/Distinct-Source-Water-Chemistry-Shapes-Contrasting-Concentration-Discharge-Patterns)
+  
+### Wetland biogeochemistry and nitrogen transformation
