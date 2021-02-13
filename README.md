@@ -36,8 +36,12 @@ Academic Profiles:
 - 2019, **Distinct Source Water Chemistry Shapes Contrasting Concentration‐Discharge Patterns**
   * [doi: 10.1029/2018WR024257](https://doi.org/10.1029/2018WR024257) | [![repo](https://img.shields.io/badge/short-summary-red)](https://github.com/WeiZhiWater/Distinct-Source-Water-Chemistry-Shapes-Contrasting-Concentration-Discharge-Patterns)
   
-### Wetland biogeochemistry and nitrogen transformation
-- 2015, **Enhanced long-term nitrogen removal and its quantitative molecular mechanism in tidal flow constructed wetlands** 
+### Wetland biogeochemistry, nitrogen transformation, and microbial community analysis
+- 2015, **Enhanced Long-term Nitrogen Removal and Its Quantitative Molecular Mechanism in Tidal Flow Constructed Wetlands** 
   * [doi: 10.1021/acs.est.5b00017](https://doi.org/10.1021/acs.est.5b00017) | [![repo](https://img.shields.io/badge/short-summary-red)](https://github.com/WeiZhiWater/From-Hydrometeorology-to-River-Water-Quality-Can-a-Deep-Learning-Model-Predict-Dissolved-Oxygen)
-- 2014, **Quantitative response relationships between nitrogen transformation rates and nitrogen functional genes in a tidal flow constructed wetland under C/N ratio constraints** 
+- 2014, **Quantitative Response Relationships Between Nitrogen Transformation Rates and Nitrogen Functional Genes in a Tidal Flow Constructed Wetland under C/N Ratio Constraints** 
   * [doi: 10.1016/j.watres.2014.06.035](https://doi.org/10.1016/j.watres.2014.06.035) | [![repo](https://img.shields.io/badge/short-summary-red)](https://github.com/WeiZhiWater/From-Hydrometeorology-to-River-Water-Quality-Can-a-Deep-Learning-Model-Predict-Dissolved-Oxygen)
+- 2014, **Methods for understanding microbial community structures and functions in microbial fuel cells: A review** 
+  * [doi: 10.1016/j.biortech.2014.08.096](https://doi.org/10.1016/j.biortech.2014.08.096) | [![repo](https://img.shields.io/badge/short-summary-red)](https://github.com/WeiZhiWater/From-Hydrometeorology-to-River-Water-Quality-Can-a-Deep-Learning-Model-Predict-Dissolved-Oxygen)
+- 2012, **Constructed wetlands, 1991–2011: A review of research development, current trends, and future directions** 
+  * [doi: 10.1016/j.scitotenv.2012.09.064](https://doi.org/10.1016/j.scitotenv.2012.09.064) | [![repo](https://img.shields.io/badge/short-summary-red)](https://github.com/WeiZhiWater/From-Hydrometeorology-to-River-Water-Quality-Can-a-Deep-Learning-Model-Predict-Dissolved-Oxygen)
