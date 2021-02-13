@@ -39,3 +39,5 @@ Academic Profiles:
 ### Wetland biogeochemistry and nitrogen transformation
 - 2015, **Enhanced long-term nitrogen removal and its quantitative molecular mechanism in tidal flow constructed wetlands** 
   * [doi: 10.1021/acs.est.5b00017](https://doi.org/10.1021/acs.est.5b00017) | [![repo](https://img.shields.io/badge/short-summary-red)](https://github.com/WeiZhiWater/From-Hydrometeorology-to-River-Water-Quality-Can-a-Deep-Learning-Model-Predict-Dissolved-Oxygen)
+- 2014, **Quantitative response relationships between nitrogen transformation rates and nitrogen functional genes in a tidal flow constructed wetland under C/N ratio constraints** 
+  * [doi: 10.1016/j.watres.2014.06.035](https://doi.org/10.1016/j.watres.2014.06.035) | [![repo](https://img.shields.io/badge/short-summary-red)](https://github.com/WeiZhiWater/From-Hydrometeorology-to-River-Water-Quality-Can-a-Deep-Learning-Model-Predict-Dissolved-Oxygen)
