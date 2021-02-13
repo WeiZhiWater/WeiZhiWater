@@ -37,3 +37,5 @@ Academic Profiles:
   * [doi: 10.1029/2018WR024257](https://doi.org/10.1029/2018WR024257) | [![repo](https://img.shields.io/badge/short-summary-red)](https://github.com/WeiZhiWater/Distinct-Source-Water-Chemistry-Shapes-Contrasting-Concentration-Discharge-Patterns)
   
 ### Wetland biogeochemistry and nitrogen transformation
+- 2015, **Enhanced long-term nitrogen removal and its quantitative molecular mechanism in tidal flow constructed wetlands** 
+  * [doi: 10.1021/acs.est.5b00017](https://doi.org/10.1021/acs.est.5b00017) | [![repo](https://img.shields.io/badge/short-summary-red)](https://github.com/WeiZhiWater/From-Hydrometeorology-to-River-Water-Quality-Can-a-Deep-Learning-Model-Predict-Dissolved-Oxygen)
