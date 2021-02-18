@@ -40,7 +40,7 @@ Academic Profiles:
 - 2015, **Enhanced Long-term Nitrogen Removal and Its Quantitative Molecular Mechanism in Tidal Flow Constructed Wetlands** 
   * [doi: 10.1021/acs.est.5b00017](https://doi.org/10.1021/acs.est.5b00017) | [![repo](https://img.shields.io/badge/short-summary-red)](https://github.com/WeiZhiWater/Enhanced-Long-term-Nitrogen-Removal-and-Its-Quantitative-Molecular-Mechanism-in-Constructed-Wetland)
 - 2014, **Quantitative Response Relationships Between Nitrogen Transformation Rates and Nitrogen Functional Genes in a Tidal Flow Constructed Wetland under C/N Ratio Constraints** 
-  * [doi: 10.1016/j.watres.2014.06.035](https://doi.org/10.1016/j.watres.2014.06.035) | [![repo](https://img.shields.io/badge/short-summary-red)](https://github.com/WeiZhiWater/From-Hydrometeorology-to-River-Water-Quality-Can-a-Deep-Learning-Model-Predict-Dissolved-Oxygen)
+  * [doi: 10.1016/j.watres.2014.06.035](https://doi.org/10.1016/j.watres.2014.06.035) | [![repo](https://img.shields.io/badge/short-summary-red)](https://github.com/WeiZhiWater/Quantitative-Response-Relationships-Between-Nitrogen-Transformation-Rates-and-Functional-Gene)
 - 2014, **Methods for understanding microbial community structures and functions in microbial fuel cells: A review** 
   * [doi: 10.1016/j.biortech.2014.08.096](https://doi.org/10.1016/j.biortech.2014.08.096) | [![repo](https://img.shields.io/badge/short-summary-red)](https://github.com/WeiZhiWater/From-Hydrometeorology-to-River-Water-Quality-Can-a-Deep-Learning-Model-Predict-Dissolved-Oxygen)
 - 2012, **Constructed wetlands, 1991–2011: A review of research development, current trends, and future directions** 
