@@ -7,7 +7,7 @@
 [![ResearchGate Badge](https://img.shields.io/badge/My-ReserchGate-green)](https://www.researchgate.net/profile/Wei_Zhi6)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=WeiZhiWater.WeiZhiWater)
 
-I am an assistant research professor in the Department of Civil & Environmental Engineering at [Penn State University](https://www.psu.edu/), University Park. My research interests focus on **Critical Zone Science** and **Watershed Hydro-biogeochemistry**. More specifically, I am interested in understanding how water moves and interacts with other components in natural environments. Ultimately, I aim to understand and forecast water quantity and quality at the watershed- and continental-scale, using both the **process-based reactive transport model** and **the data-driven machine (deep) learning model**. 
+I am a Professor of Yangtze Institute for Conservation and Development (YICODE) at Hohai University. My research interests focus on **Watershed Hydro-biogeochemistry** and **Water Quality**. More specifically, I am interested in understanding how water moves and interacts with other components in natural and human-impacted environments. Ultimately, I aim to understand and address water quality challenges from watershed and continental scales, using both the **process-based reactive transport model** and **the data-driven machine (deep) learning model**. 
 
 <br/>
 
