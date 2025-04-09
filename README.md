@@ -9,10 +9,19 @@
 
 I am a Professor of Yangtze Institute for Conservation and Development (YICODE) at Hohai University. My research interests focus on **Watershed Hydro-biogeochemistry** and **Water Quality**. More specifically, I am interested in understanding how water moves and interacts with other components in natural and human-impacted environments. Ultimately, I aim to understand and address water quality challenges from watershed and continental scales, using both the **process-based reactive transport model** and **the data-driven machine (deep) learning model**. 
 
+Our recent work leveraged **deep learning** for large-scale water quality modeling：
+
+- **Zhi, W.**, Baniecki, H., Liu, J., Boyer, E., Shen, C., Shenk, G., ... & Li, L. (2024). Increasing phosphorus loss despite widespread concentration decline in US rivers. _**PNAS**_, 121(48), e2402028121.
+- **Zhi, W.**, Appling, A. P., Golden, H. E., Podgorski, J., & Li, L. (2024). Deep learning for water quality. _**Nature Water**_, 2(3), 228-241.
+- Li, L., Knapp, J. L., Lintern, A., Ng, G. H. C., Perdrial, J., Sullivan, P. L., & **Zhi, W.**. (2024). River water quality shaped by land–river connectivity in a changing climate. _**Nature Climate Change**_, 14(3), 225-237.
+- **Zhi, W.**, Klingler, C., Liu, J., & Li, L. (2023). Widespread deoxygenation in warming rivers. _**Nature Climate Change**_, 1-9
+- **Zhi, W.**, Ouyang, W., Shen, C., & Li, L. (2023). Temperature outweighs light and flow as the predominant driver of dissolved oxygen in US rivers. _**Nature Water**_, 1(3), 249-260.
+
+
+
 <br/>
 
 Academic Profiles:
-- [CV](https://drive.google.com/file/d/1mI0sUjJaModaYELef4ml_y2npa_izZno/view?usp=sharing)
 - [Google Scholar](https://scholar.google.com/citations?user=5bEiQqwAAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Wei_Zhi6)
 - [Publon](https://publons.com/researcher/1432883/wei-zhi/)
